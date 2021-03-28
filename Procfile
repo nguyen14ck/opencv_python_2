@@ -1,1 +1,1 @@
-web: gunicorn app:cv_web_app
+web: gunicorn cv_web_app:app
